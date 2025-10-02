@@ -2,7 +2,7 @@
 
 Otomobil sahipleri ile tamir ustalarını eşleştiren dijital bir platform geliştirme projesi. Sakarya Üniversitesi Yönetim Bilişim Sistemleri bölümünde Sistem Analizi ve Tasarımı dersi kapsamında yapılmıştır.
 
-## 📌 Proje Özeti
+## 📌 Proje Özeti (OSNET_proje_dokumani.pdf)
 - **Proje Süresi:** 5 ay (Şubat 2025 - Temmuz 2025)
 - **Proje Yöneticisi:** Ali Zahit Kahraman
 - **Ekip Büyüklüğü:** 5 kişi
@@ -28,6 +28,9 @@ Otomobil sahipleri ile tamir ustalarını eşleştiren dijital bir platform geli
 | Kullanılabilirlik Testi | %95 |
 | Fonksiyonellik Testi | %80 |
 
-## 📚 Kaynaklar
-- [OSNET Proje Dokümanı](OSNET_proje_dokumani.pdf)
-- [Gantt Şeması](OSNET_gantt_plan.xlsx)
+## 🖼 İlgili Görseller
+### Bağlam diyagramı
+![Bağlam diyagramı](osnet-photo/bağlam-diyagramı.png)
+
+### İş kırılımları
+![İş kırılımları](osnet-photo/iş-kırılım.png)
